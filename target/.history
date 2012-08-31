@@ -1,0 +1,28 @@
+sbt run
+run
+exit
+run
+exit
+gen-idea
+idea
+clean
+build
+run
+compile
+test
+exit
+dea
+exit
+inspect name
+compile
+clean
+compile
+run
+compile test
+test
+compile
+test
+exit
+idea-gen
+gen-idea
+test
